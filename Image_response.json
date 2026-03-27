@@ -1,9 +1,0 @@
-{
-
-  "prompt": "In the year 2025, Canada had been hit hard by the forest fires. British Columbia province was among the worst hit with maximum number of forest fires having occurred there.  Generate a Cinematic, dramatic, single image that communicates this insight in a way that produces an emotional response, not just an informational one. As an example, consider large group of people in distress, shattered by the fire, unable to comprehend what is happening due to their own doing. A red tide swallowing the trees and large swathes of land. This is not a standard chart. The image should be visually compelling enough to open a long-form magazine story. A viewer who has never seen the dataset should walk away with both a fact and a feeling.  Image must end in .png, .jpg, .webp, or .avif. Minimum 1024px on the short side.",
-  "model": "Stable Diffusion 3",
-  "dataset_name": "Active Wildfires in Canada",
-  "dataset_url": "https://data-isdh.opendata.arcgis.com/datasets/esrica-tsg::active-wildfires-in-canada-1/explore?location=34.152096%2C-79.003284%2C2&showTable=true",
-  "insight": "Canada has been hit hard by forest fires oflate, and 2025 was the worst hit. British Columbia suffered the most widlfires among all provinces",
-
-}
